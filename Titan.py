@@ -5,6 +5,8 @@ import requests
 import datetime
 import ctypes
 
+__author__ = "Himalaya vats"
+
 
 class Titan:
     def __init__(self):
